@@ -18,4 +18,8 @@ Landing page para barbería desarrollada con HTML, CSS y JavaScript puro.
 
 ## Demo
 
-[Ver en vivo] https://barbershoplanding.vercel.app/
+[Demo](https://barbershoplanding.vercel.app/)
+
+## Autor
+
+**Raul171007** — [GitHub](https://github.com/Raul171007) · [Fiverr](https://es.fiverr.com/markestins)
